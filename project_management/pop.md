@@ -30,6 +30,7 @@ The application will be easy to install and setup through docker's environment m
 Technologies: Docker
 
 ## 4. Predicted Architecture
+![Image](https://github.com/user-attachments/assets/ca6d4d34-1df7-42ac-aec5-58fa37fbf683)
 ### 4.1 Frontend
 Tailwind CSS will be used for a responsive and nicely styled web application. React will be used to handle flask API exchanges and for dynamically updating the web page.
 
@@ -46,7 +47,6 @@ Scikit-learn will be used for training the model because its ease of use.
 Docker will be used as a simple form of deploy to help with environment consistency.
 
 ## 5. Architecture Justification
-![Image](https://github.com/user-attachments/assets/ca6d4d34-1df7-42ac-aec5-58fa37fbf683)
 - **Tailwind CSS:** provides responsive and nice styling for web applications.
 - **React:** popular framework, strong community support, good documentation
 - **MongoDB Atlas:** cloud data management eliminates the need to launch or run a database every time the application is booted, free subscription plan with ample memory for application, offers easier app integration for future improvements.
