@@ -90,14 +90,19 @@ mae = mean_absolute_error(y_test, y_pred)
 print(f'Mean Absolute Error: {mae:.2f} minutes')
 print(model.score(X_test, y_test))
 
-# new_data = pd.DataFrame({
-#     'Class': ['DBMS'],  # Example class
-#     'Type': ['Project'],
-#     'Count': 10
-# })
+new_data = pd.DataFrame({
+    'Class': ['DBMS'],  # Example class
+    'Type': ['Project'],
+    'Count': 10
+})
 
-# predicted_time = model.predict(new_data)
-# print(f'Predicted time: {predicted_time[0]:.2f} minutes')
+predicted_time = model.predict(new_data)
+print(f'Predicted time: {predicted_time[0]:.2f} minutes')
 
-count = data.groupby(['Class', 'Type']).agg({'Count': 'mean'})
-print(count)
+# count = data.groupby(['Class', 'Type']).agg({'Count': 'mean'})
+# print(count)
+
+# df = p_event[p_event['Subject'] == 'OS']
+# # print(df)
+# print(df.groupby('Type').agg({'Duration': 'sum'}))
+# print(time_sum[time_sum['Class'] == "Crypto"])
