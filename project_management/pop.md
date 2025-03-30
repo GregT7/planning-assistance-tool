@@ -25,7 +25,7 @@ The application will be easy to install and setup through docker's environment m
 Technologies: Docker
 
 ## 4. Predicted Architecture
-![Image](https://github.com/user-attachments/assets/ca6d4d34-1df7-42ac-aec5-58fa37fbf683)
+![Image](https://github.com/user-attachments/assets/e1996ab0-0d2d-4613-a773-6977feaba994)
 ### 4.1 Frontend
 Tailwind CSS will be used for a responsive and nicely styled web application. React will be used to handle flask API exchanges and for dynamically updating the web page.
 
