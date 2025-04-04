@@ -17,13 +17,24 @@
       * Presentation: PowerPoint presentation given to parents updating them on progress to gain feedback on my work and facilitate communication
         * Frequency: to be determined... (at least once a week)
         * Structure: to be determined...
-  * Testing
-    * Testing will be done incrementally during each sprint. Unit testing, integration testing, and End-to-End tests will be used to ensure the functionality and quality of the project.
 
 
 ## SDLC
+* Agile Methodology: Water-Scrum-Fall (Implemented AFTER graduation)
+* Project Management Platform: Notion
+* Testing: Incremental unit testing, integration testing, and End-to-End tests will be used to ensure the functionality and quality of the project during each sprint.
+* Project Management: MSV, Software Development Plan, Project Overview Proposal, Tech Stack/Architecture, Milestones, and Timeline will be created up front and provide the backbone for development. However, these living documents will be updated frequently to reflect the status of the project with each sprint.
+* User Stories: User stories will be collected from the perspective of me as the user and me as the developer
+* Sprint Planning and Execution
+  * Duration: To be determined...
+  * Contents: Goals, Backlog, Definition of Done (DoD), Review, Retrospective
+
 
 ## Timeline
-
-
- 
+| Deliverable       | Date |
+| -----------       | ---- |
+| MVS               |  x/x |
+| Milestones        |  x/x |
+| Requirement Specs |  x/x |
+| Design Specs      |  x/x |
+| Gantt Chart       |  x/x |
