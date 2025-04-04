@@ -55,7 +55,7 @@ Since I am not working with a team and have no hard deadlines, I will be using a
 ## 7. Notes
 Over the past year and a half, I've been collecting data for a variety of different tasks. One of the metrics collected is task duration which is vital in considering when making plans for the week. More importantly, when grouped together, the amount of time spent planning per week can be summed, providing baseline metrics for future comparisons. This will allow for me to objectively determine the efficacy of the planning tool in regards to time reduction. The following stats were calculated on a dataset spanning from 8/14/2023 to 3/9/2025
 * 43 weeks out of the 82 weeks included a plan
-* statistics - weekly time spent planning
+* statistics - time spent planning summed by week
   * average = 66 mins
   * median = 50 mins
   * standard deviation = 52.5 mins
