@@ -11,12 +11,9 @@
 - As a student user, I want to easily access stats on previous assignments so I can make informed time estimations manually
 
 ## Developer's Perspective
-- As a developer, I want to make use of the data I've been collecting to put it to good use
-- As a developer, I want to spend as little money as possible developing this project to save money
 - As a developer, I want to avoid excessive Notion API call's so that I don't get blacklisted from the service
 - As a developer, I want to hide my API keys and DB connections to protect my data/account
-- As a developer, I want to nicely organize the database so that it can be used in other applications
 
 ## Testing Perspective
-- As a testing developer, I want to ensure the API call restrictions work so I don't unknowingly or accidentally spam Notion's API.
+- As a testing developer, I want to ensure the API call restrictions work so I don't unknowingly or accidentally spam Notion's API
 - As a testing developer, I want to test the applications time-sum cards responsiveness to varying event durations to prevent inaccurate calculations and plans
